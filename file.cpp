@@ -10,7 +10,7 @@ int summelement()
    {
    cin>>arr[i];
    }
-   cout<<"Sum of all Elements are: ";
+   ggfdfhjg
 
    for(i=0;i<n;i++)
    {
