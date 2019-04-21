@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
-int summelementMansi()
+
+int summelementSaini()
+
 {
  int arr[20],i,n,sum=0;
    cout<<"How many elements you want to enter: ";
